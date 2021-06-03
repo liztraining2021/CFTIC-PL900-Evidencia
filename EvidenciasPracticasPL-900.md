@@ -148,9 +148,33 @@
 
 
 
+![4a-PowerAutomate](Evidencia/4a-PowerAutomate.PNG)
 
+![4b-PowerAutomate](Evidencia/4b-PowerAutomate.PNG)
 
+![4c-PowerAutomate](Evidencia/4c-PowerAutomate.PNG)
 
+![4d-PowerAutomate](Evidencia/4d-PowerAutomate.PNG)
+
+![4e-PowerAutomate](Evidencia/4e-PowerAutomate.PNG)
+
+![4f-PowerAutomate](Evidencia/4f-PowerAutomate.PNG)
+
+![4g-PowerAutomate](Evidencia/4g-PowerAutomate.PNG)
+
+![4h-PowerAutomate](Evidencia/4h-PowerAutomate.PNG)
+
+![4i-PowerAutomate](Evidencia/4i-PowerAutomate.PNG)
+
+![4j-PowerAutomate](Evidencia/4j-PowerAutomate.PNG)
+
+![4k-PowerAutomate](Evidencia/4k-PowerAutomate.PNG)
+
+![4l-PowerAutomate](Evidencia/4l-PowerAutomate.PNG)
+
+![4m-PowerAutomate](Evidencia/4m-PowerAutomate.PNG)
+
+![4n-PowerAutomate](Evidencia/4n-PowerAutomate.PNG)
 
 
 
@@ -160,13 +184,37 @@
 
 
 
+![5a-PowerBI](Evidencia/5a-PowerBI.PNG)
 
+![5c-PowerBI-desbloqueo](Evidencia/5c-PowerBI-desbloqueo.PNG)
+
+![5b-PowerBI-bloqueo](Evidencia/5b-PowerBI-bloqueo.PNG)
 
 
 
 # Module 6: Intro to Power Virtual Agents
 
 ## Lab: How to build a basic chatbot
+
+![6a-PVA](Evidencia/6a-PVA.PNG)
+
+![6b-PVA](Evidencia/6b-PVA.PNG)
+
+![6c-PVA](Evidencia/6c-PVA.PNG)
+
+![6d-PVA](Evidencia/6d-PVA.PNG)
+
+![6e-PVA](Evidencia/6e-PVA.PNG)
+
+![6f-PVA](Evidencia/6f-PVA.PNG)
+
+![6g-PVA](Evidencia/6g-PVA.PNG)
+
+![6h-PVA](Evidencia/6h-PVA.PNG)
+
+![6i-PVA](Evidencia/6i-PVA.PNG)
+
+![6j-PVA](Evidencia/6j-PVA.PNG)
 
 
 
