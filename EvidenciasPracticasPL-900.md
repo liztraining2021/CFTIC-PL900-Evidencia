@@ -190,7 +190,7 @@
 
 ![5b-PowerBI-bloqueo](Evidencia/5b-PowerBI-bloqueo.PNG)
 
-
+![5d-PowerBI-error](Evidencia/5d-PowerBI-error.PNG)
 
 # Module 6: Intro to Power Virtual Agents
 
